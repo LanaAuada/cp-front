@@ -1,0 +1,1 @@
+Este CheckPoint da matéria de Front-end é composto por uma página na qual você pode acessar informações sobre diferentes cursos oferecidos pela FIAP, acessar a página anterior, inicial e posterior. Também é possível abrir uma página com algumas imagens de algumas plataformas e, ao clicar em alguma imagem, você é direcionado à página da plataforma.
